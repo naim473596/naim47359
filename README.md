@@ -1,6 +1,8 @@
+(https://scontent.fdac22-1.fna.fbcdn.net/v/t39.30808-6/329001287_546379234142324_7012934284195076279_n.png?stp=dst-jpg&_nc_cat=103&ccb=1-7&_nc_sid=ab6a21&_nc_eui2=AeEaTwxXrJoqnIHPmxciRa3eTDntStuFmT1MOe1K24WZPZXjP6ZZq95C05Y6NxOEt3ngyhHmjN_zXNfsB5FWJIRC&_nc_ohc=6yjB1jLmSn8AX-MUdI5&_nc_ht=scontent.fdac22-1.fna&oh=00_AfBNqAyau6oymkhPoh7nulcL_rgJ8jAYhXpQUxAIpMUWuw&oe=63E5AFA4)
+
 ### Hi there 👋, i'm Naim Rana
 #### I am Web Design & Develper
-![I am Web Design & Develper](https://scontent.fdac22-1.fna.fbcdn.net/v/t39.30808-6/329001287_546379234142324_7012934284195076279_n.png?stp=dst-jpg&_nc_cat=103&ccb=1-7&_nc_sid=ab6a21&_nc_eui2=AeEaTwxXrJoqnIHPmxciRa3eTDntStuFmT1MOe1K24WZPZXjP6ZZq95C05Y6NxOEt3ngyhHmjN_zXNfsB5FWJIRC&_nc_ohc=6yjB1jLmSn8AX-MUdI5&_nc_ht=scontent.fdac22-1.fna&oh=00_AfBNqAyau6oymkhPoh7nulcL_rgJ8jAYhXpQUxAIpMUWuw&oe=63E5AFA4)
+![I am Web Design & Develper]
 
  web developer is a programmer who develops World Wide Web applications using a client–server model. The applications typically use HTML, CSS, and JavaScript in the client, and any general-purpose programming language in the server. HTTP is used for communications between client and server
 
